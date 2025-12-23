@@ -63,3 +63,15 @@ Performance measured using standard regression metrics
 | ML Utilities            | scikit-learn       |
 | Data Processing         | Pandas, NumPy      |
 
+💡 Key Learnings
+
+Transition from Machine Learning to Deep Learning
+
+Importance of feature scaling in neural networks
+
+Preventing overfitting using EarlyStopping
+
+Evaluating regression models using MSE, MAE, and R²
+
+Building reliable Deep Learning pipelines
+
